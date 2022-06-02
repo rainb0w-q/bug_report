@@ -4,7 +4,7 @@ Login account: admin@gmail.com/admin123* (Super Admin account)
 
 vendor:  https://itsourcecode.com/free-projects/php-project/college-management-system-project-in-php-and-mysql/
 
-Vulnerability url: /College/admin/teacher.ph
+Vulnerability url: /College/admin/teacher.php
 
 Vulnerability file: /College/admin/teacher.php
 
